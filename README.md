@@ -35,6 +35,7 @@ You have been provided same data as above in JSON format in a file called "housi
   - Average sale price of the house per location
   - Max sale price
   - Min sale price
+- All the above output has to be generated using SQL Queries vs calculations in python code
 
 Note:
 - Bonus points for handling error cases in the rest APIs
