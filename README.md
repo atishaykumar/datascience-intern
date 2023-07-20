@@ -1,5 +1,11 @@
-# datascience-intern
-Data Science Intern Coding Assignment
+# Intern-Coding-Assignment
+The coding assignment is designed for both data science and backend interns
+- if you are interested in backend, please submit the problem statement 2
+- if you are interested in data science, then submit both (we require data science folks to have knowledge of backend and data science to be effective in the role)
+
+# Programming Language
+- Please use python if you are applying for data science role
+- If you are applying to backend role, then please check with your interviewer about the language that should be used. It is either Python or Java.
 
 # Problem Statement 1:
 You have been provided with a dataset containing information about housing prices in a particular city. The dataset includes features such as the number of bedrooms, square footage, location, and sale prices of houses. Your task is to build a regression model that can predict the sale price of a house based on the given features.
@@ -29,7 +35,7 @@ Note: Feel free to use any libraries or packages you are comfortable with for da
 # Problem Statement 2:
 You have been provided same data as above in JSON format in a file called "housing_data.json"
 
-- You have to build a REST API in python (preferably flask) that will take the json data as input and store in postgres database
+- You have to build a REST API that will take the json data as input and store in postgres database
 - Write an API that will give following output when called
   - Average sale price of the house overall
   - Average sale price of the house per location
